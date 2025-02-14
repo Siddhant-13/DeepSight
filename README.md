@@ -5,7 +5,7 @@ This project is a front-end application that allows users to upload images and r
 ## Instructions
 
 ```console
-git clone https://github.com/ItsSpirax/DeepSight
+git clone https://github.com/Siddhant-13/DeepSight
 cd DeepSight
 ```
 
